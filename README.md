@@ -9,7 +9,7 @@
 <div align="center">
   <h3>🏴‍☠️ better call eazy</h3>
   <p>
-    These days I like working on AI Agents tooling: <strong>agents (MCP)</strong>, <strong>search & RAG</strong>, and lightweight <strong>agentic workflows for data engineering and curation</strong>.
+    These days I like working on AI Agents tooling: <strong>agents (MCP)</strong>, search & RAG, and lightweight <strong>agentic workflows for data engineering and curation</strong>.
   </p>
 </div>
 
