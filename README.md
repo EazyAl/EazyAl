@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hey there! I'm Ali Imran (EazyAl) 👋</h1>
   
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/phone-on.gif" width="500" alt="animated gif" />
 </div>
 
 ---
