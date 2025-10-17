@@ -1,12 +1,11 @@
 <div align="center">
-  <h1>Hey there! I'm Ali Imran (EazyAl) 👋</h1>
+  <h1>Hey there! I'm Ali 👋</h1>
   
 </div>
 
 ---
 
 <div align="center">
-  <h3>🏴‍☠️ better call eazy</h3>
   <p>
     These days I like working on AI Agents tooling: <strong>agents (MCP)</strong>, search & RAG, and lightweight <strong>agentic workflows for data engineering and curation</strong>.
   </p>
