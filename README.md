@@ -28,13 +28,7 @@
   </ul>
   
   <p>
-    As I've also been in product management and solutions engineering roles, I make it point to try to approach AI with a human perspective - building not just for developers but also your average citizen.
-</div>
-
----
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EazyAl&layout=compact&langs_count=8&hide_title=true&theme=radical" />
+    As I've also been in product management and solutions engineering roles, I make it point to try to approach AI with a human perspective. I really like open source and hope to contribute more in the coming months/years
 </div>
 
 ---
