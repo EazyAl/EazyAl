@@ -13,8 +13,6 @@
 
 ---
 
-### 🚀 Career Journey
-
 <div align="left">
   <p>
     Over the course of my career, I've built expertise across several key domains:
