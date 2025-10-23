@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>
-    These days I like working on AI Agents, <strong>agents (MCP)</strong>, RAG, and <strong>agentic workflows</strong> for data engineering and curation. Big fan of open source AI and running things locally 
+    These days I like working on AI Agents, MCP, RAG, and <strong>agentic workflows</strong> for data engineering and curation. Big fan of open source AI and running things locally 
   </p>
 </div>
 
